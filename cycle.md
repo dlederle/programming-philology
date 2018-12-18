@@ -1,0 +1,1 @@
+Used instead of loop
